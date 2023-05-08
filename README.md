@@ -5,15 +5,15 @@ Dessiner dans une image bitmap (format BMP) 24 bits, par la programmation !
 
 Programme de dessin dans une image bitmap 24 bits par pixels (au format BMP) uniquement, pour des raisons de simplicité.
 
-Libre ensuite à l'utilisateur de convertir l'image vers d'autres formats (png, jpeg, etc...) avec un logiciels tiers tel que paint, Irfanview, etc ...
+Libre ensuite à l'utilisateur de convertir l'image bmp vers d'autres formats (png, jpeg, etc...) avec un logiciels tiers tel que paint, Irfanview, etc ...
 
 Objectif : dessiner par le code, ce qui permet de réaliser certaines choses difficilement réalisables avec un logiciel classique de dessin ! (voir exemples ci-dessous)
 
-Le programme n'utilise aucune librairie hormis les librairies de base de la bibliothèque standard du C (stdio.h, stdlib.h, etc...). Pas de librairie graphique donc.
+Le programme n'utilise aucune librairie hormis les librairies de base de la bibliothèque standard (stdio.h, stdlib.h, etc...). Pas de librairie graphique donc.
 
-Il est donc portable sur n'importe quel système d'exploitation, il faut juste disposer d'un compilateur C++ de base.
+Le programme est donc portable sur n'importe quel système d'exploitation, il faut juste disposer d'un compilateur C++ de base.
 
-L'accent a été mis sur la performance : **dessiner le plus rapidement possible** !
+Fan d'optimisation, l'accent a été mis sur la performance : **dessiner le plus rapidement possible** !
 
 Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 
@@ -74,7 +74,7 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 
 #### Résultat
 
-![exemple 2](/readme/example2.png "exemple2")
+![exemple 2](/readme/example2.jpg "exemple2")
 
 ### Exemple 3
 
@@ -110,7 +110,7 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 
 #### Résultat
 
-![exemple 3](/readme/example3.png "exemple3")
+![exemple 3](/readme/example3.jpg "exemple3")
 
 ### Exemple 4
 
@@ -153,7 +153,7 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 
 #### Résultat
 
-![exemple 4](/readme/example4.png "exemple4")
+![exemple 4](/readme/example4.jpg "exemple4")
 
 ## Fractales
 
@@ -182,7 +182,7 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 
 #### Résultat
 
-![exemple 5](/readme/example5.png "exemple5")
+![exemple 5](/readme/example5.jpg "exemple5")
 
 ### Exemple 2
 
@@ -207,7 +207,7 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 
 #### Résultat
 
-![exemple 6](/readme/example6.png "exemple6")
+![exemple 6](/readme/example6.jpg "exemple6")
 
 ## Fonctions mathématiques
 
