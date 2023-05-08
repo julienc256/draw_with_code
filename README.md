@@ -21,6 +21,10 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 
 ## Lignes et formes de base
 
+### Exemple 1
+
+#### Code
+
 	int main()
 	{
 		int WIDTH = 450;
@@ -40,7 +44,13 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 		return EXIT_SUCCESS;
 	}
 
+#### Résultat
+
 ![exemple 1](/readme/example1.jpg "exemple1")
+
+### Exemple 2
+
+#### Code
 
 	int main()
 	{
@@ -62,7 +72,13 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 		return EXIT_SUCCESS;
 	}
 
+#### Résultat
+
 ![exemple 2](/readme/example2.png "exemple2")
+
+### Exemple 3
+
+#### Code
 
 	int main()
 	{
@@ -92,7 +108,13 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 		return EXIT_SUCCESS;
 	}
 
+#### Résultat
+
 ![exemple 3](/readme/example3.png "exemple3")
+
+### Exemple 4
+
+#### Code
 
 	int main()
 	{
@@ -129,11 +151,17 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 		return EXIT_SUCCESS;
 	}
 
+#### Résultat
+
 ![exemple 4](/readme/example4.png "exemple4")
 
 ## Fractales
 
 ### Triangle de Sierpinsky
+
+### Exemple 1
+
+#### Code
 
 	int main()
 	{
@@ -152,7 +180,13 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 		return EXIT_SUCCESS;
 	}
 
+#### Résultat
+
 ![exemple 5](/readme/example5.png "exemple5")
+
+### Exemple 2
+
+#### Code
 
 	int main()
 	{
@@ -170,6 +204,8 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 		delete image;
 		return EXIT_SUCCESS;
 	}
+
+#### Résultat
 
 ![exemple 6](/readme/example6.png "exemple6")
 
