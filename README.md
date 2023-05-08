@@ -217,6 +217,14 @@ Voici quelques exemples ci-dessous (que j'étofferai au fur et à mesure)
 
 ( à venir ...)
 
+## Ouverture et importation d'image
+
+( à venir ...)
+
+## Retouche d'image
+
+( à venir ...)
+
 # Compilation
 
 ( à venir ...)
